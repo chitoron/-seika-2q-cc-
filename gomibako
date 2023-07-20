@@ -1,0 +1,29 @@
+// function onSubmint(event){
+//   //event.preventDefault();
+//   let form = document.getElementById("basic_form");
+//   console.log(form);
+//   let formData = new FormData(form);
+//   console.log(formData.get("basic_name"))
+// }
+//let basyo=1
+// swiper.on('slideNextTransitionStart', function () {
+//   let a = document.getElementById("a");
+//   console.log(basyo)
+//    basyo=basyo+1
+//   console.log(basyo)
+//   if (basyo==4){
+//     basyo=1
+//   }
+//   a.textContent = basyo
+  
+// });
+// swiper.on('slidePrevTransitionEnd', function () {
+//   let a = document.getElementById("a");
+//   console.log(basyo)
+//    basyo=basyo-1
+//   console.log(basyo)
+//   if (basyo==0){
+//     basyo=3
+//   }
+//   a.textContent = basyo
+// });
